@@ -17,4 +17,7 @@
 17     enviarEmailConfirmacao(usuario.email, pedido.id)
 18     limparCarrinho(usuario)
 19     RETORNAR SUCESSO(pedido.id)
+
 20 SENAO RETORNAR ERRO("Pagamento recusado")
+
+qualquer coisa
